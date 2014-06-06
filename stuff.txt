@@ -1,4 +1,0 @@
-aaa
-bbb
-ccc
-after merge of common
